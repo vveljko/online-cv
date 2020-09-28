@@ -45,7 +45,7 @@ sidebar:
       - item: Permaculture
         link:
 
-      - item: Eating
+      - item: Basketball
         link:
 
 career-profile:
@@ -65,10 +65,9 @@ education:
           - Bullet point
           - Bullet point
     - degree: Professional
-      university: 
+      university: isocpp.org, lwn.net
       time: 1996 - 2020
       details: |
-        isocpp.org, lwn.net
           - Mythical Man Month
           - Structured Design
 experiences:
@@ -77,30 +76,29 @@ experiences:
       company: PubNub Inc, San Francisco
       details: |
         Architected highly portable and scalable client for REST API based realtime messaging cloud service. Handled SDKs for C/C++, Qt and Arduino, including tech support & docs.
-          - Established QA department, acct. to ISO 9000, SEI CMM, Daily Build and Test and other notable standards and recommendations / best industry practice
-          - Created Architecture Design and Detailed Design Documents
-          - Selected tools and technologies for use, when not imposed by project requirements
-          - Created several company standards for development process
-          - Lead HW/SW Co-Design/Verification in SystemVerilog / SystemC / C++
-          - Developed cryptography devices and security protocols (SSL & other)
-          - Lead advanced & secure remote management protocols / systems development and deployment
+          - 
     - role: Project Manager
       time: 2006 - 2014
       company: Svelan doo, Belgrade
       details: |
         Managed several complex projects, including wireline public network deployment project and technology transfer for production, installation & maintenance.
+          - Established QA department, acct. to ISO 9000, SEI CMM, Daily Build and Test and other notable standards and recommendations / best industry practice
+          - Selected tools and technologies for use, when not imposed by project requirements
+          - Created several company standards for development process
           - Created System Specification and Test Specification Documents
           - For automated system testing process, created hardware configurable automated system testing platform TesterA, based on Linux/Windows
           - Performed Linux kernel drivers development for measurement, testing and communication devices
           - Written real time automated system tests (as to establish practice), and did troubleshooting, mostly while integration and regression testing
           - Designed and implemented system for automatic generation and internationalization of technical documentation from HW definition files (Ruby/LaTeX)
-          - Prepared presentations and papers for management and conferences, describing our work
-          - VHDL/Verilog design and verification, for Xilinx and Altera FPGA
     - role: HW/SW Systems Architect    GVS d.o.o.    
       time: 1995 - 2006
       company: GVS doo, Belgrade
       details: |
         Architected high availability, distributed system SRCE, Large-Scale Telecom Switch. Implemented key, system-critical and real-time parts. Responsible for system-wide troubleshooting and product management.
+          - Created Architecture Design and Detailed Design Documents
+          - Lead HW/SW Co-Design/Verification in SystemVerilog / SystemC / C++ for Xilinx and Altera FPGA
+          - Developed cryptography devices and security protocols (SSL & other)
+          - Lead advanced & secure remote management protocols / systems development and deployment
           - Programmed low-level software/firmware (boot, loading, drivers, system functions) for various systems and devices, mostly for telecom equipment market
           - Lead mixed HW/SW teams for said systems, actively participated in design and implementation
           - Designed and implemented DSP algorithms on several DSPs/microcontrolers, Motorola/TI
@@ -114,12 +112,12 @@ experiences:
           - PCB design (OrCAD, Tango, P-CAD), front panel design (AutoCAD, CorelDraw)
           - Design, prototyping and testing of electronic boards, power conversion and analog
           - Writting technical documentation for professional electronics: user manuals, manufacturing etc.
-          - Coded software tools to facilitate electronic design jobs, in C, Pascal and BasicBullet point
+          - Coded software tools to facilitate electronic design jobs, in C, Pascal and Basic
 projects:
     title: Projects
     intro: >
-      A selection of interesting projects or open source libraries includes 
-      hardware only, software only and mixed HW/SW projects.
+      A selection of interesting projects or open source libraries. Some 
+      hardware only, some software only and some mixed HW/SW projects.
     assignments:
       - title: PubNub C-core
         link: "github.com/pubnub/c-core"
