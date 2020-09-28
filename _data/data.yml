@@ -64,7 +64,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Professional
+    - degree: Professional development
       university: isocpp.org, lwn.net
       time: 1996 - 2020
       details: |
@@ -76,7 +76,9 @@ experiences:
       company: PubNub Inc, San Francisco
       details: |
         Architected highly portable and scalable client for REST API based realtime messaging cloud service. Handled SDKs for C/C++, Qt and Arduino, including tech support & docs.
-          - 
+          - Created a new modular C/C++/Qt SDK capable of operating both on constrained MCU platforms and high level software platforms
+          - Wrote detailed docs and demos for various supported hardware and software platforms
+          - Handled complex technical support requests through deep collaboration with clients
     - role: Project Manager
       time: 2006 - 2014
       company: Svelan doo, Belgrade
@@ -120,8 +122,8 @@ projects:
       hardware only, some software only and some mixed HW/SW projects.
     assignments:
       - title: PubNub C-core
-        link: "github.com/pubnub/c-core"
-        tagline: "PubNub C/C++ Software Development Kit for POSIX, Windows, OpenSSL, Qt, FreeRTOS, Microchip Harmony etc"
+        link: "https://github.com/pubnub/c-core"
+        tagline: "PubNub C/C++ Software Development Kit for POSIX, Windows, OpenSSL, Qt, FreeRTOS, mbed, Microchip Harmony etc"
 
       - title: Switching System SRCE
         link: "http://gvs.rs/proizvodi/srce/srce_en.html"
@@ -136,7 +138,7 @@ projects:
         tagline: "Set of application notes based on GreenPAK configurable mixed signal ICs describing an application and how it uses the part"
 
       - title: PubNub Arduino
-        link: "github.com/pubnub/arduino"
+        link: "https://github.com/pubnub/arduino"
         tagline: "Arduino Library for connecting and interaction with PubNub cloud based service"
 
 publications:
