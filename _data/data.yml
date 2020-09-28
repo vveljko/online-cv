@@ -77,22 +77,35 @@ experiences:
       company: PubNub Inc, San Francisco
       details: |
         Architected highly portable and scalable client for REST API based realtime messaging cloud service. Handled SDKs for C/C++, Qt and Arduino, including tech support & docs.
-          - Bullet point
-          - Bullet point
+          - Established QA department, acct. to ISO 9000, SEI CMM, Daily Build and Test and other notable standards and recommendations / best industry practice
+          - Created Architecture Design and Detailed Design Documents
+          - Selected tools and technologies for use, when not imposed by project requirements
+          - Created several company standards for development process
+          - Lead HW/SW Co-Design/Verification in SystemVerilog / SystemC / C++
+          - Developed cryptography devices and security protocols (SSL & other)
+          - Lead advanced & secure remote management protocols / systems development and deployment
     - role: Project Manager
       time: 2006 - 2014
       company: Svelan doo, Belgrade
       details: |
         Managed several complex projects, including wireline public network deployment project and technology transfer for production, installation & maintenance.
-          - Bullet point
-          - Bullet point
+          - Created System Specification and Test Specification Documents
+          - For automated system testing process, created hardware configurable automated system testing platform TesterA, based on Linux/Windows
+          - Performed Linux kernel drivers development for measurement, testing and communication devices
+          - Written real time automated system tests (as to establish practice), and did troubleshooting, mostly while integration and regression testing
+          - Designed and implemented system for automatic generation and internationalization of technical documentation from HW definition files (Ruby/LaTeX)
+          - Prepared presentations and papers for management and conferences, describing our work
+          - VHDL/Verilog design and verification, for Xilinx and Altera FPGA
     - role: HW/SW Systems Architect    GVS d.o.o.    
       time: 1995 - 2006
       company: GVS doo, Belgrade
       details: |
         Architected high availability, distributed system SRCE, Large-Scale Telecom Switch. Implemented key, system-critical and real-time parts. Responsible for system-wide troubleshooting and product management.
-          - Bullet point
-          - Bullet point
+          - Programmed low-level software/firmware (boot, loading, drivers, system functions) for various systems and devices, mostly for telecom equipment market
+          - Lead mixed HW/SW teams for said systems, actively participated in design and implementation
+          - Designed and implemented DSP algorithms on several DSPs/microcontrolers, Motorola/TI
+          - Introduced MCU control/diagnostic to various systems and devices, Intel/Motorola
+          - Designed and implemented CAD/CASE tools for automating HW & SW development process
     - role: Electronics Design Engineer
       time: 1989 - 1994
       company: GVS doo, Belgrade
@@ -105,9 +118,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A selection of interesting projects or open source libraries includes 
+      hardware only, software only and mixed HW/SW projects.
     assignments:
       - title: PubNub C-core
         link: "github.com/pubnub/c-core"
@@ -132,9 +144,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Published technical articles.
     papers:
       - title: "Configurable ICs Build Versatile, Low-Cost Regulated Charge Pumps"
         link: "http://www.how2power.com/pdf_view.php?url=/newsletters/1811/articles/H2PToday1811_design_DialogSemi.pdf"
@@ -185,7 +195,7 @@ skills:
       - name: C/C++ programming
         level: 90%
 
-      - name: Scripting Ruby, Python, Lua
+      - name: Ruby, Python, Lua
         level: 80%
 
       - name: Linux/Windows Kernel
@@ -194,7 +204,7 @@ skills:
       - name: FreeRTOS
         level: 80%
 
-      - name: Protocols HTTPS, TLS, TCP/IP
+      - name: HTTPS, TLS, TCP/IP
         level: 85%
 
 footer: >
