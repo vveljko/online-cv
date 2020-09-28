@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: vlad.veljkovic@gmail.com
     phone: 
-    website:  #do not add http://
+    website: vveljko.github.io/online-cv/ #do not add http://
     linkedin: veljkovic-vladimir-06995932
     github: vveljko
     telegram: # add your nickname without '@' sign
@@ -39,10 +39,10 @@ sidebar:
         level: Basic
 
     interests:
-      - item: Free range pork
+      - item: Forest raised pigs
         link:
 
-      - item: Snowboarding
+      - item: Permaculture
         link:
 
       - item: Eating
@@ -177,7 +177,7 @@ skills:
         level: 90%
 
       - name: Power conversion
-        level: 90%
+        level: 100%
 
       - name: Mixed signal design
         level: 80%
@@ -187,6 +187,9 @@ skills:
 
       - name: Scripting: Ruby, Python, Lua
         level: 80%
+
+      - name: Linux/Windows Kernel
+        level: 60%
 
       - name: FreeRTOS
         level: 80%
