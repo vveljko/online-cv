@@ -19,7 +19,7 @@ sidebar:
     github: vveljko
     telegram: # add your nickname without '@' sign
     gitlab: vveljko
-    bitbucket:
+    bitbucket: vveljko
     twitter: 
     stack-overflow: 4726654/vladimir-veljkovic
     codewars:
@@ -39,7 +39,7 @@ sidebar:
         level: Basic
 
     interests:
-      - item: Climbing
+      - item: Free range pork
         link:
 
       - item: Snowboarding
@@ -107,15 +107,15 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: PubNub C-core
+        link: "github.com/pubnub/c-core"
+        tagline: "PubNub C/C++ Software Development Kit for POSIX, Windows, OpenSSL, Qt, FreeRTOS, Microchip Harmony etc"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PubNub Arduino
+        link: "github.com/pubnub/arduino"
+        tagline: "Arduino Library for connecting and interaction with PubNub cloud based service"
 
-      - title: Tempo
+      - title: GreenPAK Application Notes
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
