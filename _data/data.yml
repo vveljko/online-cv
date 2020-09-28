@@ -8,17 +8,17 @@ sidebar:
 
     # Profile information
     name: Vladimir Veljkovic
-    tagline: Full Stack Developer
+    tagline: HW/SW Systems Architect
     avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vlad.veljkovic@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: vladimir-veljkovic-06995932
+    linkedin: veljkovic-vladimir-06995932
     github: vveljko
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: vveljko
     bitbucket:
     twitter: 
     stack-overflow: 4726654/vladimir-veljkovic
@@ -91,6 +91,13 @@ experiences:
       company: GVS doo, Belgrade
       details: |
         Architected high availability, distributed system SRCE, Large-Scale Telecom Switch. Implemented key, system-critical and real-time parts. Responsible for system-wide troubleshooting and product management.
+          - Bullet point
+          - Bullet point
+    - role: Electronics Design Engineer
+      time: 1989 - 1994
+      company: GVS doo, Belgrade
+      details: |
+        Developed analog electronics for S3000 system, uninterruptible power supply system (UPS) for telecom equipment. PCB design, switchmode power conversion,  monitoring & control unit.
           - Bullet point
           - Bullet point
 projects:
