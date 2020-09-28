@@ -33,20 +33,20 @@ sidebar:
         level: Native
 
       - idiom: Russian
-        level: Basic
+        level: Conversational
 
       - idiom: French
         level: Basic
 
     interests:
-      - item: Forest raised pigs
-        link:
+      - item: Free range farming
+        link: https://en.wikipedia.org/wiki/Free_range
 
       - item: Permaculture
-        link:
+        link: https://en.wikipedia.org/wiki/Permaculture
 
       - item: Basketball
-        link:
+        link: 
 
 career-profile:
     title: Career Profile
@@ -143,8 +143,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      Published technical articles.
+    intro: 
     papers:
       - title: "Configurable ICs Build Versatile, Low-Cost Regulated Charge Pumps"
         link: "http://www.how2power.com/pdf_view.php?url=/newsletters/1811/articles/H2PToday1811_design_DialogSemi.pdf"
