@@ -98,8 +98,10 @@ experiences:
       company: GVS doo, Belgrade
       details: |
         Developed analog electronics for S3000 system, uninterruptible power supply system (UPS) for telecom equipment. PCB design, switchmode power conversion,  monitoring & control unit.
-          - Bullet point
-          - Bullet point
+          - PCB design (OrCAD, Tango, P-CAD), front panel design (AutoCAD, CorelDraw)
+          - Design, prototyping and testing of electronic boards, power conversion and analog
+          - Writting technical documentation for professional electronics: user manuals, manufacturing etc.
+          - Coded software tools to facilitate electronic design jobs, in C, Pascal and BasicBullet point
 projects:
     title: Projects
     intro: >
@@ -111,21 +113,21 @@ projects:
         link: "github.com/pubnub/c-core"
         tagline: "PubNub C/C++ Software Development Kit for POSIX, Windows, OpenSSL, Qt, FreeRTOS, Microchip Harmony etc"
 
+      - title: Switching System SRCE
+        link: "http://gvs.rs/proizvodi/srce/srce_en.html"
+        tagline: "Digital public telephone switching system of high capacity, designed primarily for higher levels in the network hierarchy"
+
+      - title: Telecom UPS System S3000
+        link: "http://gvs.rs/proizvodi/s3000/s3000_en.html"
+        tagline: "Uninterruptable power supply system S3000 provides high quality power to telecom equipment, where low disturbances, low noise and short response time are mandatory"
+
+      - title: GreenPAK Application Notes
+        link: "https://www.dialog-semiconductor.com/an-cm-263"
+        tagline: "Set of application notes based on GreenPAK configurable mixed signal ICs describing an application and how it uses the part"
+
       - title: PubNub Arduino
         link: "github.com/pubnub/arduino"
         tagline: "Arduino Library for connecting and interaction with PubNub cloud based service"
-
-      - title: GreenPAK Application Notes
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -134,15 +136,15 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
+      - title: "Configurable ICs Build Versatile, Low-Cost Regulated Charge Pumps"
+        link: "http://www.how2power.com/pdf_view.php?url=/newsletters/1811/articles/H2PToday1811_design_DialogSemi.pdf"
+        authors: Vladimir Veljkovic
+        conference: "how2power.com, 2018"
+
       - title: Building a Li-Pol battery charger using GreenPAK
         link: "https://www.embedded.com/building-a-li-pol-battery-charger-using-greenpak/"
-        authors: 
+        authors: Vladimir Veljkovic
         conference: embedded.com, 2017
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
@@ -169,7 +171,28 @@ skills:
         level: 80%
 
       - name: PCB design
+        level: 95%
+
+      - name: Analog circuit design
         level: 90%
+
+      - name: Power conversion
+        level: 90%
+
+      - name: Mixed signal design
+        level: 80%
+
+      - name: C/C++ programming
+        level: 90%
+
+      - name: Scripting: Ruby, Python, Lua
+        level: 80%
+
+      - name: FreeRTOS
+        level: 80%
+
+      - name: Protocols: HTTPS, TLS, TCP/IP
+        level: 85%
 
 footer: >
     
