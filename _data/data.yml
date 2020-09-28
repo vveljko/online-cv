@@ -185,7 +185,7 @@ skills:
       - name: C/C++ programming
         level: 90%
 
-      - name: Scripting: Ruby, Python, Lua
+      - name: Scripting Ruby, Python, Lua
         level: 80%
 
       - name: Linux/Windows Kernel
@@ -194,7 +194,7 @@ skills:
       - name: FreeRTOS
         level: 80%
 
-      - name: Protocols: HTTPS, TLS, TCP/IP
+      - name: Protocols HTTPS, TLS, TCP/IP
         level: 85%
 
 footer: >
