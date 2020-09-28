@@ -7,33 +7,36 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Vladimir veljkovic
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: vlad.veljkovic@gmail.com
+    phone: 
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: vladimir-veljkovic
+    github: vveljko
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: vladimir-veljkovic
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Fluent
+
+      - idiom: Serbian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Russian
+        level: Basic
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Basic
 
     interests:
       - item: Climbing
@@ -42,22 +45,17 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: Eating
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Able to grasp & tackle complex HW/SW mixed systems, foresee potential issues early-on, quickly spot implementation flaws and dive deep into details. My architecture designs are component focused and: high integrity rather than likeable, designed for testing rather than test-driven, robust rather than rich. Versed in mixed HW/SW development process with focus on system specification, automated testing and quality assurance.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Electronics and Telecommunications
+      university: Belgrade University
+      time: 1989 - 1995
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,53 +64,33 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Professional
+      university: 
+      time: 1996 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        isocpp.org, lwn.net
+          - Mythical Man Month
+          - Structured Design
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: IoT Architect
+      time: 2014 - 2019
+      company: PubNub Inc, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Architected highly portable and scalable client for REST API based realtime messaging cloud service. Handled SDKs for C/C++, Qt and Arduino, including tech support & docs.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Project Manager
+      time: 2006 - 2014
+      company: Svelan doo, Belgrade
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Managed several complex projects, including wireline public network deployment project and technology transfer for production, installation & maintenance.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: HW/SW Systems Architect    GVS d.o.o.    
+      time: 1995 - 2006
+      company: GVS doo, Belgrade
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Architected high availability, distributed system SRCE, Large-Scale Telecom Switch. Implemented key, system-critical and real-time parts. Responsible for system-wide troubleshooting and product management.
           - Bullet point
           - Bullet point
 projects:
@@ -168,23 +146,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Real-time
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Large scale
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: High availability
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Distributed systems
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: System specs
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PCB design
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
