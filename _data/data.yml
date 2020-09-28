@@ -92,7 +92,7 @@ experiences:
           - Performed Linux kernel drivers development for measurement, testing and communication devices
           - Written real time automated system tests (as to establish practice), and did troubleshooting, mostly while integration and regression testing
           - Designed and implemented system for automatic generation and internationalization of technical documentation from HW definition files (Ruby/LaTeX)
-    - role: HW/SW Systems Architect    GVS d.o.o.    
+    - role: HW/SW Systems Architect
       time: 1995 - 2006
       company: GVS doo, Belgrade
       details: |
@@ -155,11 +155,6 @@ publications:
         link: "https://www.embedded.com/building-a-li-pol-battery-charger-using-greenpak/"
         authors: Vladimir Veljkovic
         conference: embedded.com, 2017
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
