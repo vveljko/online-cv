@@ -134,10 +134,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Building a Li-Pol battery charger using GreenPAK
+        link: "https://www.embedded.com/building-a-li-pol-battery-charger-using-greenpak/"
+        authors: 
+        conference: embedded.com, 2017
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
